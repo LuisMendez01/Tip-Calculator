@@ -29,13 +29,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="400" height="700" src='https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img width="400" height="700" src='https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img width="400" height="700" src='https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator2](https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif)
 
 <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator3](https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
