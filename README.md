@@ -30,11 +30,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <div style="display: inline-block;">
-<img float="left" width="290" height="400" src='https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img float="left" width="292" height="400" src='https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img float="left" width="290" height="400" src='https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img float="left" width="292" height="400" src='https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img float="right" width="290" height="300" src='https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img float="right" width="292" height="500" src='https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </div>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
