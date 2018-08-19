@@ -41,7 +41,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered while building the app:
+
+1) The segmented control, I wanted to change the border color along with the background and font color of the non-active and active ones. So even though I found out how to do it, the functions I applied did not work because in swift 4 some functions were renamed as well as some attributes and that was hard to apply from the new things to the old things in the program. 
+
+2) Also dealing with navigation bar was a challenge because even though the view for the color background was on top of the navigation bar, the navigation bar would not change to the view color. Besides the color issue, there was also a line at the bottom of the navigation bar, I called it the bottom border but online developers called it the hairline. Getting that to be removed was hard to find out how to do. 
 
 ## License
 
