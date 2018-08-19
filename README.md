@@ -29,9 +29,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/lZ8rd8j.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator2](https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif)
+
+<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator3](https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif)
 
 ## Notes
 
@@ -52,10 +56,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-# Demo
-<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator1](https://user-images.githubusercontent.com/16315708/44127002-2797cd1c-a009-11e8-8999-2ea8fd25764d.gif)
-
-<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator2](https://user-images.githubusercontent.com/16315708/44127110-c3fa41f8-a009-11e8-99c6-b2eb2b0f8817.gif)
-
-<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>![tipcalculator3](https://user-images.githubusercontent.com/16315708/44127144-f97a7a1e-a009-11e8-8d06-2436543b59d0.gif)
